@@ -1,4 +1,14 @@
-.q-box{ 
+.p-box{ 
     background-color:#a64dff;
      text-align: center;
+}
+.q-box{
+  background-color: aliceblue;
+height:150px;
+
+}
+
+.a-box{
+    height:150px;
+
 }
